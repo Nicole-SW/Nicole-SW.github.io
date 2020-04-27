@@ -2,6 +2,3 @@ baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "massively"
-publishDir = 'docs'
-[markup.goldmark.renderer]
-unsafe= true
